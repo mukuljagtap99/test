@@ -1,0 +1,5 @@
+{{#user}}
+Name: Mukul Jagtap
+Skills: HTML, CSS, JS, Core java , arrays , string , collection framework , file handling ,multithreading ,jsp servlet , jdbc, hibernate , spring mvc , ioc , spring boot , MySql , microservices
+Email: mukuljagtap99@gmail.com
+{{/user}}
